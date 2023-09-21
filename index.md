@@ -14,7 +14,7 @@ This project employs a BERT-based machine learning model to detect hate speech i
 
 ### Lispy - A Lisp dialect
 
-Lispy is a functional programming language with an interpreted nature and a homoiconic design, drawing inspiration from the Lisp programming language developed in 1958. The interpreter is written in C, utilizing the MPC library for parsing operations. Lispy serves as an Interactive Prompt, enabling users to evaluate expressions in real-time or assess external files written in the Lispy language.
+Lispy is a functional programming language with an interpreted nature and a homoiconic design, drawing inspiration from the Lisp programming language developed in 1958. The interpreter is written in C, utilizing the MPC library for parsing operations. Lispy serves as an Interactive Prompt, enabling users to evaluate expressions in real-time or to evaluate external files written in the Lispy language.
 
 [![](https://img.shields.io/badge/C-white?logo=C)](#) [![](https://img.shields.io/badge/Lisp-white?logo=Lisp)](#) [![](https://img.shields.io/badge/Ubuntu-white?logo=ubuntu)](#)
 
