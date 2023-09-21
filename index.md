@@ -21,3 +21,11 @@ Lispy is a functional programming language with an interpreted nature and a homo
 [View code on Github](https://github.com/agustoslu/lispy)
 
 ---
+
+## Ongoing projects
+
+- Implementing Google Brain's "Music Transformer: Generating Music with Long-Term Structure" Paper 
+
+[View paper on arXiv](https://arxiv.org/abs/1809.04281)
+
+- Experimenting with LangChain and Hugging Face
