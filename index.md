@@ -6,7 +6,7 @@
 
 This project employs a BERT-based machine learning model to detect hate speech in tweets related to the 2020 US Elections, leveraging data from the University of Stuttgart's "Hate Towards the Political Opponent" Twitter corpus study.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#) [![](https://img.shields.io/badge/C-white?logo=C)](#) [![](https://img.shields.io/badge/Lisp-white?logo=Lisp)](#) [![](https://img.shields.io/badge/Linux_Ubuntu_Terminal-white?logo=ubuntu)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#) 
 
 [View code on Colab](https://colab.research.google.com/drive/1tQn7tqIy0zk_souxfbxVYLTg2k-O3sQ3?usp=sharing)
 
