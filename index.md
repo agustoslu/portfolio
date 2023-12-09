@@ -8,7 +8,7 @@ This project employs a BERT-based machine learning model to detect hate speech i
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/TensorFlow-white?logo=TensorFlow)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#) 
 
-[View code on Colab](https://colab.research.google.com/drive/1tQn7tqIy0zk_souxfbxVYLTg2k-O3sQ3?usp=sharing)
+[View code on Colab]
 
 ---
 
