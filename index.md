@@ -6,7 +6,7 @@
 <p style="padding: 0px; margin: 0px;"><small>Zihang Sun, Danqi Yan, Anyi Wang, <strong>Tanalp Agustoslu</strong>, Qi Feng, Chengzhi Hu, Longfei Zuo, Shijia Zhou, Hermine Kleiner, Pingjun Hong, Suteera Seeha, Sebastian Loftus, Anna Barwig, Oliver Kraus, Jona Volohonsky, Yang Sun, Leopold Martin, Lena Altinger, Jing Wang, Leon Weber.In SemEval, ACL 2024 Workshop.</small></p>
 <p style="padding: 0px; margin: 20px 0px;"></p>
 
-📝 **Abstract Excerpt**
+📝 **Abstract Excerpt:**
 We describe our submission for the NLI4CT 2024 shared task on robust Natural Language Inference over clinical trial reports. Our system is an ensemble of nine diverse models aggregated via majority voting. Ranging from a straightforward Convolutional Neural Network to few-shot-prompted language models, our approach exhibits a wide spectrum of strategies. Surprisingly, some individual ensemble members outperform the final model in both accuracy and robustness.
 
 ---
