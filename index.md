@@ -3,8 +3,7 @@
 ---
 
 ### LMU-BioNLP at SemEval-2024 Task 2: Large Diverse Ensembles for Robust Clinical NLI
-Zihang Sun, Danqi Yan, Anyi Wang, **Tanalp Agustoslu**, Qi Feng, Chengzhi Hu, Longfei Zuo, Shijia Zhou, Hermine Kleiner, Pingjun Hong, Suteera Seeha, Sebastian Loftus, Anna Barwig, Oliver Kraus, Jona Volohonsky, Yang Sun, Leopold Martin, Lena Altinger, Jing Wang, Leon Weber
-In SemEval, ACL 2024 Workshop
+<small>Zihang Sun, Danqi Yan, Anyi Wang, **Tanalp Agustoslu**, Qi Feng, Chengzhi Hu, Longfei Zuo, Shijia Zhou, Hermine Kleiner, Pingjun Hong, Suteera Seeha, Sebastian Loftus, Anna Barwig, Oliver Kraus, Jona Volohonsky, Yang Sun, Leopold Martin, Lena Altinger, Jing Wang, Leon Weber.In SemEval, ACL 2024 Workshop.</small>
 
 ---
 
