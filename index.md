@@ -7,7 +7,7 @@
 <p style="padding: 0px; margin: 20px 0px;"></p>
 
 📝 **Abstract Excerpt:**
-We describe our submission for the NLI4CT 2024 shared task on robust Natural Language Inference over clinical trial reports. Our system is an ensemble of nine diverse models aggregated via majority voting. Ranging from a straightforward Convolutional Neural Network to few-shot-prompted language models, our approach exhibits a wide spectrum of strategies. Surprisingly, some individual ensemble members outperform the final model in both accuracy and robustness.
+We describe our submission for the NLI4CT 2024 shared task on robust Natural Language Inference over clinical trial reports. Our system is an ensemble of nine diverse models which we aggregate via majority voting. The models use a large spectrum of different approaches ranging from a straightforward Convolutional Neural Network over fine-tuned Large Language Models to few-shot-prompted language models using chain-of-thought reasoning. Surprisingly, we find that some individual ensemble members are not only more accurate than the final ensemble model but also more robust.
 
 ---
 
