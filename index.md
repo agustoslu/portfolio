@@ -1,5 +1,7 @@
 ## Projects and Publications
 
+---
+
 <h3 style="padding: 0px; margin: 0px;"><strong>Sign Language Sense Disambiguation</strong></h3>
 <p style="padding: 0px; margin: 0px;"><small>Jana Grimm, Miriam Winkler, Oliver Kraus, Tanalp Agustoslu.LIMO 2024 @ KONVENS 2024. arXiv Preprint.</small></p>
 <p style="padding: 0px; margin: 20px 0px;"></p>
