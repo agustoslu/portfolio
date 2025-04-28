@@ -2,6 +2,17 @@
 
 ---
 
+<h3 style="padding: 0px; margin: 0px;"><strong>LMU at PerAnsSumm 2025: LlaMA-in-the-loop at Perspective-Aware Healthcare Answer Summarization Task 2.2 Factuality</strong></h3>
+<p style="padding: 0px; margin: 0px;"><small>Tanalp Agustoslu.In CL4Health, ACL 2025 Workshop.</small></p>
+<p style="padding: 0px; margin: 20px 0px;"></p>
+
+📝 **Abstract:**
+In this paper, we describe our submission for the shared task on Perspective-aware Healthcare Answer Summarization. Our system consists of two quantized models of the LlaMA family, applied across fine-tuning and few-shot settings. Additionally, we adopt the SumCoT prompting technique to improve the factual correctness of the generated summaries. We show that SumCoT yields more factually accurate summaries, even though this improvement comes at the expense of lower performance on lexical overlap and semantic similarity metrics such as ROUGE and BERTScore. Our work highlights an important trade-off when evaluating summarization models.
+
+[View paper](https://aclanthology.org/2025.cl4health-1.34/)
+
+---
+
 <h3 style="padding: 0px; margin: 0px;"><strong>Sign Language Sense Disambiguation</strong></h3>
 <p style="padding: 0px; margin: 0px;"><small>Jana Grimm, Miriam Winkler, Oliver Kraus, Tanalp Agustoslu.LIMO 2024 @ KONVENS 2024. arXiv Preprint.</small></p>
 <p style="padding: 0px; margin: 20px 0px;"></p>
